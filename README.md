@@ -14,7 +14,15 @@ All content is publicly available under the [Creative Commons Attribution Licens
 
 ## Target Audience
 
-FIXME add learner profiles for your lesson here
+Tomas is a third year undergraduate computer science student who is interested in machine learning and exploring biases in algorithms. He has taken introductory courses in math, statistics, and programming with compiled languages like Java and C. He is beginning to focus on the higher level courses relevant to his areas of interest.
+
+Tomas' advisor is senior personnel on a project to develop a scalable smart grid. The team has recently gained access to several years' worth of solar power generation data from an experimental test bed. The data are split into one Excel file per month, and each file includes extra header rows that need to be removed before files can be combined into a single, master dataset. As sensors have changed and been replaced over time, the headers may not be the same in every file. Tomas manually inspects each file to verify the headers are consistent.
+
+The project is a little behind schedule and Tomas' advisor would like him to produce a statistical analysis of the complete time series. This includes fitting a model for analysis, identifying and resolving outliers and null data, and sharing summary tables and plots with the team. In the past these tables and plots have been shared via email.
+
+Because of the pandemic, Tomas is attending class remotely and coming to campus to work in the lab two days a week. Tomas does not have reliable internet access at home, and his family shares one laptop that must be left running overnight to compile and analyze the data.
+
+Software Carpentry will teach Tomas how to write programs to merge and analyze tabular data files, how to create visualizations of the analysis and document the parameters and changes to his code so he can communicate his decisions to his advisor. It will also teach him to use version control systems to collaborate with the distributed project team.
 
 ### Notes
 
